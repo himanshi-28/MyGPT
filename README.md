@@ -76,7 +76,5 @@ The project leverages the following technologies and frameworks:
 This project integrates with the OpenAI APIs to power its various tools. The following APIs are used:
 + **OpenAI Text Summarization API:** Used to generate concise summaries of provided texts.
 
-## Snapshots
-
-
 + **OpenAI Language Models API:** Utilized for tasks such as words to paragraph generation, chatbot responses, grammar checking, and time complexity analysis.
+
