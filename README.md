@@ -31,7 +31,7 @@ To run the project locally, follow these steps:
    ```
    
    MONGODB_URI=your-mongodb-uri
-   JWT_SECRET=your-jwt-secret
+   JWT_ACCESS_SECRET=your-jwt-secret
    OPENAI_API_KEY=your-openai-api-key
    ```
 
