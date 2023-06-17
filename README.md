@@ -75,3 +75,33 @@ This project integrates with the OpenAI APIs to power its various tools. The fol
 
 + **OpenAI Language Models API:** Utilized for tasks such as words to paragraph generation, chatbot responses, grammar checking, and time complexity analysis.
 
+## Snapshots
++ ### Register Page
+  ![image](https://github.com/himanshi-28/MyGPT/assets/98536981/f48cd07f-7acc-4abf-971e-8ff736994807)
+
++ ### Login Page
+![image](https://github.com/himanshi-28/MyGPT/assets/98536981/2cfa8419-9667-4e4a-8db9-fba123493060)
+
++ ### Tools Page
+  ![image](https://github.com/himanshi-28/MyGPT/assets/98536981/a501aaa6-d6d1-4d81-8e51-cb06f14ecad3)
+
++ ### Text to Summary Page
+![image](https://github.com/himanshi-28/MyGPT/assets/98536981/2e24bbdc-405d-4732-b8d7-329ef37fc967)
+
++ ### Words to Paragraph Page
+![image](https://github.com/himanshi-28/MyGPT/assets/98536981/55759061-99f7-405b-89bb-96df44ce7654)
+
++ ### Grammar Correction Page
+![image](https://github.com/himanshi-28/MyGPT/assets/98536981/f0ab2011-f8db-4d57-b378-f13c2442d83a)
+
++ ### Chatbot Page
+![image](https://github.com/himanshi-28/MyGPT/assets/98536981/9a5ee15f-1b52-40dc-a795-74ba26ea2665)
+
++ ### Time Complexity Analyzer Page
+![image](https://github.com/himanshi-28/MyGPT/assets/98536981/f8ea6b77-8f04-4fef-8576-96f89c9070aa)
+
++ ### SQL Queries Generator Page
+![image](https://github.com/himanshi-28/MyGPT/assets/98536981/b354244a-6223-44e5-ac5b-d3507248dab3)
+
+
+
