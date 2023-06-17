@@ -77,13 +77,13 @@ This project integrates with the OpenAI APIs to power its various tools. The fol
 
 ## Snapshots
 + ### Register Page
-  ![image](https://github.com/himanshi-28/MyGPT/assets/98536981/f48cd07f-7acc-4abf-971e-8ff736994807)
+![image](https://github.com/himanshi-28/MyGPT/assets/98536981/f48cd07f-7acc-4abf-971e-8ff736994807)
 
 + ### Login Page
 ![image](https://github.com/himanshi-28/MyGPT/assets/98536981/2cfa8419-9667-4e4a-8db9-fba123493060)
 
 + ### Tools Page
-  ![image](https://github.com/himanshi-28/MyGPT/assets/98536981/a501aaa6-d6d1-4d81-8e51-cb06f14ecad3)
+![image](https://github.com/himanshi-28/MyGPT/assets/98536981/a501aaa6-d6d1-4d81-8e51-cb06f14ecad3)
 
 + ### Text to Summary Page
 ![image](https://github.com/himanshi-28/MyGPT/assets/98536981/2e24bbdc-405d-4732-b8d7-329ef37fc967)
