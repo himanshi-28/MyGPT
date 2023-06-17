@@ -13,23 +13,20 @@ To run the project locally, follow these steps:
 
 + **Clone the repository:**
    ```
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/himanshi-28/MyGPT.git
    ```
-+ **Install the dependencies in the client and api directories:**
++ **Install the dependencies:**
 
    ```
-   cd project-name/frontend
-   npm install
-
-   cd ../backend
+   cd MyGPT
    npm install
    ```
 + **Set up the environment variables:**
-   - Create a .env file in the backend directory.
+   - Create a .env file in the MyGPT directory.
    - Define the following environment variables in the .env file:
+ 
      
    ```
-   
    MONGODB_URI=your-mongodb-uri
    JWT_ACCESS_SECRET=your-jwt-secret
    OPENAI_API_KEY=your-openai-api-key
@@ -64,7 +61,7 @@ The project leverages the following technologies and frameworks:
 + **API Integration:** OpenAI
 
 ## Usage
-+ **User Registration:** Visit the application's homepage and click on the "Register" button. Fill in the required information and submit the form to create a new user account.
++ **User Registration:** Visit the application's homepage and click on the "Sign Up" button. Fill in the required information and submit the form to create a new user account.
 
 + **User Login:** After registration or on subsequent visits, click on the "Login" button on the homepage. Enter your credentials to log in.
 
